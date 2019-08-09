@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi humans!
+I like C++!
+Got to go before Loki sees me coding!!
